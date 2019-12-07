@@ -1,0 +1,5 @@
+2019-12-04 17:42:56,482 INFO [root] [__init__.py(<module>:4)] - test
+2019-12-04 17:42:57,002 INFO [root] [test_ihrm_login.py(test01_login_success:19)] - 登陆接口返回数据：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'ce7aa8e7-58a1-46e4-90ea-b9d294674230'}
+2019-12-04 17:42:57,093 INFO [root] [test_ihrm_login.py(test02_mobile_error:24)] - 登陆接口返回数据：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-12-04 17:42:57,179 INFO [root] [test_ihrm_login.py(test03_password_error:29)] - 登陆接口返回数据：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-12-04 17:42:57,266 INFO [root] [test_ihrm_login.py(test04_none_params:34)] - 登陆接口返回数据：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}

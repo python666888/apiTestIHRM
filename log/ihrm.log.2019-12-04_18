@@ -1,0 +1,11 @@
+2019-12-04 17:46:16,060 INFO [root] [test_ihrm_login.py(test07_extra_params:49)] - 登陆接口返回数据：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'cb3704ea-37d7-46e1-b01a-4f8cd00fceb1'}
+2019-12-04 17:46:16,152 INFO [root] [test_ihrm_login.py(test08_less_params:54)] - 登陆接口返回数据：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-12-04 18:00:26,245 INFO [root] [__init__.py(<module>:4)] - test
+2019-12-04 18:00:26,610 INFO [root] [test_ihrm_login.py(test01_login_success:19)] - 登陆接口返回数据：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '0edeb08b-1507-4afe-98c1-fa7810603e18'}
+2019-12-04 18:00:26,702 INFO [root] [test_ihrm_login.py(test02_mobile_error:24)] - 登陆接口返回数据：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-12-04 18:00:26,789 INFO [root] [test_ihrm_login.py(test03_password_error:29)] - 登陆接口返回数据：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-12-04 18:00:26,876 INFO [root] [test_ihrm_login.py(test04_none_params:34)] - 登陆接口返回数据：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2019-12-04 18:00:26,966 INFO [root] [test_ihrm_login.py(test05_mobile_empty:39)] - 登陆接口返回数据：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-12-04 18:00:27,053 INFO [root] [test_ihrm_login.py(test06_password_empty:44)] - 登陆接口返回数据：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2019-12-04 18:00:27,145 INFO [root] [test_ihrm_login.py(test07_extra_params:49)] - 登陆接口返回数据：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '78818c51-4f49-4006-9f9d-b94ddb8d64e6'}
+2019-12-04 18:00:27,232 INFO [root] [test_ihrm_login.py(test08_less_params:54)] - 登陆接口返回数据：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
